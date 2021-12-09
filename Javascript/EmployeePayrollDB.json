@@ -1,0 +1,35 @@
+{   "name":"Jayanth",
+    "profileImage":"4",
+    "gender":"male",
+    "Dept":"Others",
+    "salary":"395400",
+    "Day":"30","Month":"Nov","Year":"2021",
+    "Notes":"This is Jayanth"
+}
+
+{   "name":"Karthick",
+    "profileImage":"4",
+    "gender":"male",
+    "Dept":"Others",
+    "salary":"500000",
+    "Day":"15","Month":"March","Year":"2021",
+    "Notes":"This is Karthick from Chennai"
+}
+
+{   "name":"Valarmathy Ramachandran",
+    "profileImage":"1",
+    "gender":"female",
+    "Dept":"Engineer",
+    "salary":"300000",
+    "Day":"30","Month":"April","Year":"2021",
+    "Notes":"Hello, This is Valarmathy. "
+}
+
+{   "name":"Balaji",
+    "profileImage":"2",
+    "gender":"male",
+    "Dept":"Engineer",
+    "salary":"500000",
+    "Day":"27","Month":"Nov","Year":"2021",
+    "Notes":"Hey Guys, I am Balaji from Chennai. Basically I love to travel a lot. "
+}
